@@ -1,3 +1,7 @@
+
+![Texto alternativo](https://www.canva.com/design/DAGR0odhvwc/-QMiBu0EKmFc1v2CW5Vqpw/edit?utm_content=DAGR0odhvwc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
+
 # 💫 About Me:
 Soy ingeniera biomédica con 26 años y una pasión por la tecnología y la programación. Actualmente me estoy especializando en desarrollo web, donde busco combinar mis conocimientos en ingeniería con habilidades de programación para crear soluciones innovadoras.<br><br>Soy una persona curiosa y entusiasta, siempre en busca de aprender algo nuevo. Me gustaría participar en diversos proyectos que me permitan colaborar con otros y seguir creciendo profesionalmente. ¡Estoy emocionada por lo que el futuro tiene reservado y por las oportunidades de conectar con otros desarrolladores!
 
