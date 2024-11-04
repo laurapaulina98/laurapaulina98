@@ -1,5 +1,5 @@
 
-![Texto alternativo](https://www.canva.com/design/DAGR0odhvwc/-QMiBu0EKmFc1v2CW5Vqpw/edit?utm_content=DAGR0odhvwc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+(https://github.com/laurapaulina98/laurapaulina98/blob/main/Banner%20de%20Linkedin%20Moderno%20para%20Arquitecto%20Azul%20y%20Blanco%20(3).png)
 
 
 # 💫 About Me:
