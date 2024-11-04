@@ -1,5 +1,5 @@
 
-(https://github.com/laurapaulina98/laurapaulina98/blob/main/Banner%20de%20Linkedin%20Moderno%20para%20Arquitecto%20Azul%20y%20Blanco%20(3).png)
+![](https://github.com/laurapaulina98/laurapaulina98/blob/main/Banner%20de%20Linkedin%20Moderno%20para%20Arquitecto%20Azul%20y%20Blanco%20(3).png)
 
 
 # 💫 About Me:
